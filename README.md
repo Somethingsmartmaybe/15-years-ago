@@ -10,4 +10,7 @@ zu schauen was kleben bleibt.
 
 im besten fall dienen diese skripte als inspiration um eigene ideen zu entwickeln und etwas sinnvolles daraus zu machen.
 
-__lwz
+die urversionen dieser skripte stammen von packetstormsecurity wo sie seiner zeit vor 15 archiviert wurden, die ablage auf github dient ausschliesslich dazu
+das nichts verloren geht und der author rät davon diese scripte ausserhalb einer kontrollierten umgebung (VM) auszuführen oder zu nutzen.
+
+cheers __lwz
